@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CurrencyCalculate</string>
+    <string name="doviz_tutari">Döviz Tutarı</string>
+    <string name="tl_tutari">TL Tutarı</string>
+    <string name="doviz_tipi_degistir">Döviz Tipi Değiştir</string>
+    <string-array name="islemtipi">
+        <item>Alış</item>
+        <item>Satış</item>
+    </string-array>
 </resources>
