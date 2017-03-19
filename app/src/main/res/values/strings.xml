@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">CurrencyCalculate</string>
     <string name="doviz_secimi">Döviz Seçimi</string>
+    <string name="doviz_tipi_degistir">Döviz Tipi Değiştir</string>
+    <string name="doviz_turu">Döviz Türü</string>
+    <string name="doviz_tutari">Döviz Tutarı</string>
+    <string name="tl_tutar">TL Tutarı</string>
+    <string-array name="islem_tipi"></string-array>
     <array name="Doviz">
         <item>USD</item>
         <item>EUR</item>
