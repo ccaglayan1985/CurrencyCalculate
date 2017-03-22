@@ -29,10 +29,6 @@ public class CurrencyCalculate extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 Toast.makeText(getApplicationContext(), "seçilen işlem tipi" + islemtipi[position], Toast.LENGTH_SHORT).show();
 
-                switch (position) {
-
-
-                }
 
             }
 
