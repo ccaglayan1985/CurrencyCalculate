@@ -1,6 +1,7 @@
 package com.ccaglayan1985.currencycalculate;
 
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -24,6 +25,8 @@ public class CurrencyCalculate extends AppCompatActivity {
 
 
     public void doviztipidegistir(View view) {
+        Intent intent = new Intent(CurrencyCalculate.this, CurrencySelection.class);
+        startActivity(intent);
     }
 }
 
