@@ -18,7 +18,7 @@ public class CurrencySelection extends AppCompatActivity {
         liste.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Toast.makeText(getApplication(), "Seçilen döviz türü : " + liste, Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplication(), "Seçilen döviz türü : " + liste, Toast.LENGTH_SHORT).show();
             }
         });
 

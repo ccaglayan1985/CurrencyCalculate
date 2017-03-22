@@ -5,7 +5,6 @@
     <string name="doviz_turu">Döviz Türü</string>
     <string name="doviz_tutari">Döviz Tutarı</string>
     <string name="tl_tutar">TL Tutarı</string>
-    <string-array name="islem_tipi"></string-array>
     <array name="Doviz">
         <item>USD</item>
         <item>EUR</item>

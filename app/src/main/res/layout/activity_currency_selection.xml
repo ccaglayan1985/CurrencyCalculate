@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:entries="@array/Doviz"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="40dp" />
+        tools:layout_editor_absoluteY="50dp" />
 
 
 </android.support.constraint.ConstraintLayout>
